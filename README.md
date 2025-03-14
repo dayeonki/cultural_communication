@@ -6,6 +6,17 @@
 - zh: Language Situation in China book (filtered by NER to remove proper nouns)
 - ko+zh: Gold mapping from Chinatogod website (http://www.chinatogod.com/main/z2_search_.php?si=0&all_search=%BD%C5%C1%B6%BE%EE%B7%CE)
 
+#### [1-1] ko neologisms
+- code: `code/crawl_naveropendict.py`
+- data: `data/naver_opendict_ko_official.jsonl`
+    - count: 748
+    - year distribution: `visualization/year_distribution.png`
+
+#### [1-2] ko+zh gold mappings
+- code: `code/crawl_chinatogod.py`
+- data: `data/chinatogod_data.jsonl`
+    - count: 120
+
 
 ### [2] Annotation Exercise 1 (with ko/zh natives)
 **[Phase 1]**
