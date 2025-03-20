@@ -1,0 +1,166 @@
+[[AdvancedFormat]]
+
+[[ED:State]]
+[[ED:Gender]]
+[[ED:SawSurvey:1]]
+
+[[Block:MC Block 1]]
+
+[[Question:TE:SingleLine]]
+The meaning of a neologism is "'중요한건 꺾였는데도 그냥 하는 마음'의 줄임말로 이미 마음은 꺾여 하기 싫더라도 할 일은 해내자는 뜻". Can you guess the neologism?
+
+[[Question:MC:MultiSelect]]
+What strategies did you use to guess the neologism?
+[[Choices]]
+I did not use any strategies / I'm not sure if I used any strategies / I went with my intuition.
+I recalled my past memories of communicating with this term.
+I asked my friends around.
+
+[[Question:MC:SingleAnswer]]
+How confident are you in your guess? Rate in a scale from 1 (Very unconfident) to 5 (Very confident).
+[[Choices]]
+1 (Very Unconfident)
+2 (Unconfident)
+3 (Neutral)
+4 (Confident)
+5 (Very Confident)
+
+[[Question:MC:SingleAnswer]]
+In the past month, how often did you use this temr in your daily work and life? Rate in a scale from 1 (Never) to 5 (Always).
+[[Choices]]
+Never (Never in the past month)
+Rarely (Fewer than once a week)
+Sometimes (Two or three times a week)
+Often (More than three times a week, but not every day)
+Always (Almost everyday)
+
+[[PageBreak]]
+
+[[Block:MC Block 2]]
+
+[[Question:TE:SingleLine]]
+The meaning of a neologism is "Oh Yeah Come On의 단축형 Oh Yeah C'mon를 소리 나는 대로 한글로 표현한 신조어로 '와', '대박' 등의 감탄사를 뜻함". Can you guess the neologism?
+
+[[Question:MC:MultiSelect]]
+What strategies did you use to guess the neologism?
+[[Choices]]
+I did not use any strategies / I'm not sure if I used any strategies / I went with my intuition.
+I recalled my past memories of communicating with this term.
+I asked my friends around.
+
+[[Question:MC:SingleAnswer]]
+How confident are you in your guess? Rate in a scale from 1 (Very unconfident) to 5 (Very confident).
+[[Choices]]
+1 (Very Unconfident)
+2 (Unconfident)
+3 (Neutral)
+4 (Confident)
+5 (Very Confident)
+
+[[Question:MC:SingleAnswer]]
+In the past month, how often did you use this temr in your daily work and life? Rate in a scale from 1 (Never) to 5 (Always).
+[[Choices]]
+Never (Never in the past month)
+Rarely (Fewer than once a week)
+Sometimes (Two or three times a week)
+Often (More than three times a week, but not every day)
+Always (Almost everyday)
+
+[[PageBreak]]
+
+[[Block:MC Block 3]]
+
+[[Question:TE:SingleLine]]
+The meaning of a neologism is "'돼지'와 '부지런하다'의 합성어로 먹을 것에 매우 부지런하다는 뜻의 신조어". Can you guess the neologism?
+
+[[Question:MC:MultiSelect]]
+What strategies did you use to guess the neologism?
+[[Choices]]
+I did not use any strategies / I'm not sure if I used any strategies / I went with my intuition.
+I recalled my past memories of communicating with this term.
+I asked my friends around.
+
+[[Question:MC:SingleAnswer]]
+How confident are you in your guess? Rate in a scale from 1 (Very unconfident) to 5 (Very confident).
+[[Choices]]
+1 (Very Unconfident)
+2 (Unconfident)
+3 (Neutral)
+4 (Confident)
+5 (Very Confident)
+
+[[Question:MC:SingleAnswer]]
+In the past month, how often did you use this temr in your daily work and life? Rate in a scale from 1 (Never) to 5 (Always).
+[[Choices]]
+Never (Never in the past month)
+Rarely (Fewer than once a week)
+Sometimes (Two or three times a week)
+Often (More than three times a week, but not every day)
+Always (Almost everyday)
+
+[[PageBreak]]
+
+[[Block:MC Block 4]]
+
+[[Question:TE:SingleLine]]
+The meaning of a neologism is "'외모, 성격, 학력, 집안, 직업, 자산' 여섯 개 축의 육각형 그래프에서 6가지 모든 기준이 꽉 채워진 형태로 어디 하나 부족하지 않는 완벽형 인간을 뜻하는 신조어". Can you guess the neologism?
+
+[[Question:MC:MultiSelect]]
+What strategies did you use to guess the neologism?
+[[Choices]]
+I did not use any strategies / I'm not sure if I used any strategies / I went with my intuition.
+I recalled my past memories of communicating with this term.
+I asked my friends around.
+
+[[Question:MC:SingleAnswer]]
+How confident are you in your guess? Rate in a scale from 1 (Very unconfident) to 5 (Very confident).
+[[Choices]]
+1 (Very Unconfident)
+2 (Unconfident)
+3 (Neutral)
+4 (Confident)
+5 (Very Confident)
+
+[[Question:MC:SingleAnswer]]
+In the past month, how often did you use this temr in your daily work and life? Rate in a scale from 1 (Never) to 5 (Always).
+[[Choices]]
+Never (Never in the past month)
+Rarely (Fewer than once a week)
+Sometimes (Two or three times a week)
+Often (More than three times a week, but not every day)
+Always (Almost everyday)
+
+[[PageBreak]]
+
+[[Block:MC Block 5]]
+
+[[Question:TE:SingleLine]]
+The meaning of a neologism is "'시간'과 가격 대비 성능을 뜻하는 '가성비'가 합쳐진 신조어로 효율적인 시간 활용을 의미하는 시간 대비 성능을 뜻함". Can you guess the neologism?
+
+[[Question:MC:MultiSelect]]
+What strategies did you use to guess the neologism?
+[[Choices]]
+I did not use any strategies / I'm not sure if I used any strategies / I went with my intuition.
+I recalled my past memories of communicating with this term.
+I asked my friends around.
+
+[[Question:MC:SingleAnswer]]
+How confident are you in your guess? Rate in a scale from 1 (Very unconfident) to 5 (Very confident).
+[[Choices]]
+1 (Very Unconfident)
+2 (Unconfident)
+3 (Neutral)
+4 (Confident)
+5 (Very Confident)
+
+[[Question:MC:SingleAnswer]]
+In the past month, how often did you use this temr in your daily work and life? Rate in a scale from 1 (Never) to 5 (Always).
+[[Choices]]
+Never (Never in the past month)
+Rarely (Fewer than once a week)
+Sometimes (Two or three times a week)
+Often (More than three times a week, but not every day)
+Always (Almost everyday)
+
+[[PageBreak]]
+
