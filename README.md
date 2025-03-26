@@ -1,10 +1,11 @@
 # Cross-Cultural Communication Project
-**Owner:** Zoey Ki, Hope Yu
+**Owner:** Zoey Ki, Hope Hou
 
 ### [1] Collecting Neologisms + Meanings
 - ko: NAVER Opensource Dictionary (filtered to only use terms from official neologism dictionary)
-- zh: Language Situation in China book (filtered by NER to remove proper nouns)
-- ko+zh: Gold mapping from Chinatogod website (http://www.chinatogod.com/main/z2_search_.php?si=0&all_search=%BD%C5%C1%B6%BE%EE%B7%CE)
+- zh-1: "Language Situation in China" 2019-2022 (in total 948 unique words where 6 words have two meanings; 1 word (卷) have three meanings; 98 words are marded with Internet slang 网络用语; some words contain placeholders "xxx")
+- zh-2: "Word-Splitting" 2015-2024 [link](https://docs.google.com/spreadsheets/d/1XeVljZ-ObGPoA9jepgwAoz1jX-3Y5OPpzZ0P7_zdVco) (in total 100 words but not all slangs)
+- ko+zh: Gold mapping from Chinatogod website [link](http://www.chinatogod.com/main/z2_search_.php?si=0&all_search=%BD%C5%C1%B6%BE%EE%B7%CE)
 
 
 ### [2] Annotation Exercise 1 (with ko/zh natives)
