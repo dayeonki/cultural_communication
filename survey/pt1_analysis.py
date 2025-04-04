@@ -63,19 +63,25 @@ def count_confidence_difficulty():
     difficulty_counts.columns = ['Difficulty Level', 'Count']
     return confidence_counts, difficulty_counts
 
+def is_guess_correct(guess, correct_answer):
+    # Note: by observing the data, it seems that the guess is not exactly the same as the correct answer, but might be contained
+    # if guess.strip() == correct_answer.strip():
+    if guess.strip() in correct_answer.strip() or correct_answer.strip() in guess.strip():
+        return True
+    return False
 
-def calculate_accuracy():
+
+def calculate_accuracy(gold_keywords):
     total = 0
     correct = 0
 
-    gold_keywords = {i + 1: entry['keyword'] for i, entry in enumerate(gold_data)}
     for i in range(1, 26):
         col = f'{i}_Q2'
         if col in df.columns:
-            for idx, guess in df[col].items():
+            for _, guess in df[col].items():
                 correct_answer = gold_keywords.get(i)
                 if pd.notna(guess) and correct_answer is not None:
-                    if guess.strip() == correct_answer.strip():
+                    if is_guess_correct(guess, correct_answer):
                         correct += 1
                     total += 1
 
@@ -83,11 +89,9 @@ def calculate_accuracy():
     return accuracy
 
 
-def calculate_confidence_weighted_accuracy():
+def calculate_confidence_weighted_accuracy(gold_keywords):
     total_score = 0
     total_entries = 0
-
-    gold_keywords = {i + 1: entry['keyword'] for i, entry in enumerate(gold_data)}
 
     for i in range(1, 26):
         guess_col = f'{i}_Q2'
@@ -114,7 +118,7 @@ def calculate_confidence_weighted_accuracy():
                 except:
                     continue
 
-                sign = 1 if guess.strip() == correct_answer.strip() else -1
+                sign = 1 if is_guess_correct(guess, correct_answer) else -1
                 score = sign * (conf_level / 5)
                 total_score += score
                 total_entries += 1
@@ -132,16 +136,18 @@ if __name__ == "__main__":
     df = pd.read_csv(f'pt1_{args.language}.csv')
     with open(f"../data/{args.language}_firstbatch.jsonl", "r", encoding="utf-8") as f:
         gold_data = [json.loads(line) for line in f]
-    gold_keywords = {entry['page_num']: entry['keyword'] for entry in gold_data}
-
+    if args.language == 'ko':
+        gold_keywords = {i + 1: entry['keyword'] for i, entry in enumerate(gold_data)}
+    else:
+        gold_keywords = {i + 1: entry['word'] for i, entry in enumerate(gold_data)}
 
     min_duration, max_duration = count_duration()
     min_year, max_year = count_year()
     strategies = count_strategy()
     other_strategies = other_strategy()
     confidence, difficulty = count_confidence_difficulty()
-    accuracy = calculate_accuracy()
-    confidence_weighted_accuracy = calculate_confidence_weighted_accuracy()
+    accuracy = calculate_accuracy(gold_keywords)
+    confidence_weighted_accuracy = calculate_confidence_weighted_accuracy(gold_keywords)
 
     print(f"Min Duration: {str(min_duration)}")
     print(f"Max Duration: {str(max_duration)}")
