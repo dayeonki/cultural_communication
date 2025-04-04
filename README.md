@@ -20,3 +20,54 @@
 **[Phase 2]**
 - **Procedure:** Given meaning, ask for connotation + verify meaning (any expanded meaning)
 - **How to ask connotation?:** Give specific/realistic scenario (e.g., Would you use this term to appraise or criticize something/someone?)
+
+
+## Survey response analysis
+- Run `python survey/pt1_analysis.py --language $LANGUAGE` by replacing $LANGUAGE with ko or zh.
+- Example output:
+
+```
+Min Duration: 0 days 00:09:17
+Max Duration: 0 days 06:56:16
+Min Year: 1993
+Max Year: 2001
+
+Strategy Distribution:
+                                                Value  Count
+0  I did not use any strategies / I'm not sure if...    211
+1  I recalled my past memories of communicating u...     99
+2  I recalled similar-sounding or similarly struc...     85
+3                                             Others     16
+4                   I searched online (e.g. Google).      7
+5                         I asked my friends around.      2
+6  I asked AI tools to help me guess the neologis...      1
+
+Other Strategies:
+                     Comment  Count
+0                        모름      7
+1                       여친임      1
+2  전 여친이 있어서 저 말의 의미를 모르겠어요      1
+3        문제가 무슨 말인줄 모르겠어요 ㅠ      1
+4                뉴스에서 언뜻 본듯      1
+5                 최근 한국에서 봄      1
+
+Confidence Distribution:
+        Confidence Level  Count
+0                   NaN    112
+1    5 (Very confident)     67
+2         4 (Confident)     63
+3           3 (Neutral)     35
+4       2 (Unconfident)     31
+5  1 (Very unconfident)     17
+
+Difficulty Distribution:
+             Difficulty Level  Count
+0                   4 (Hard)     89
+1                   2 (Easy)     67
+2              1 (Very easy)     62
+3              5 (Very hard)     57
+4  3 (Neither easy nor hard)     50
+
+Accuracy: 0.413
+Confidence-weighted Accuracy: -0.076
+```
