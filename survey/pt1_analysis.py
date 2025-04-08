@@ -66,16 +66,20 @@ def count_confidence_difficulty():
 def is_guess_correct(guess, correct_answer):
     # Note: by observing the data, it seems that the guess is not exactly the same as the correct answer, but might be contained
     # if guess.strip() == correct_answer.strip():
+    guess = guess.replace(' ', '').lower()
+    correct_answer = correct_answer.replace(' ', '').lower()
     if guess.strip() in correct_answer.strip() or correct_answer.strip() in guess.strip():
         return True
     return False
 
 
-def calculate_accuracy(gold_keywords):
+def calculate_accuracy(gold_keywords, lang):
     total = 0
     correct = 0
 
     for i in range(1, 26):
+        if lang == 'zh' and i == 19:
+            continue
         col = f'{i}_Q2'
         if col in df.columns:
             for _, guess in df[col].items():
@@ -89,11 +93,13 @@ def calculate_accuracy(gold_keywords):
     return accuracy
 
 
-def calculate_confidence_weighted_accuracy(gold_keywords):
+def calculate_confidence_weighted_accuracy(gold_keywords, lang):
     total_score = 0
     total_entries = 0
 
     for i in range(1, 26):
+        if lang == 'zh' and i == 19:
+            continue
         guess_col = f'{i}_Q2'
         conf_col = None
         count = 0
@@ -130,13 +136,14 @@ def calculate_confidence_weighted_accuracy(gold_keywords):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--language", type=str, default='ko')
+    parser.add_argument("-l", "--language", type=str, default='ko')
     args = parser.parse_args()
+    lang = args.language
 
     df = pd.read_csv(f'pt1_{args.language}.csv')
     with open(f"../data/{args.language}_firstbatch.jsonl", "r", encoding="utf-8") as f:
         gold_data = [json.loads(line) for line in f]
-    if args.language == 'ko':
+    if lang == 'ko':
         gold_keywords = {i + 1: entry['keyword'] for i, entry in enumerate(gold_data)}
     else:
         gold_keywords = {i + 1: entry['word'] for i, entry in enumerate(gold_data)}
@@ -146,8 +153,8 @@ if __name__ == "__main__":
     strategies = count_strategy()
     other_strategies = other_strategy()
     confidence, difficulty = count_confidence_difficulty()
-    accuracy = calculate_accuracy(gold_keywords)
-    confidence_weighted_accuracy = calculate_confidence_weighted_accuracy(gold_keywords)
+    accuracy = calculate_accuracy(gold_keywords, lang)
+    confidence_weighted_accuracy = calculate_confidence_weighted_accuracy(gold_keywords, lang)
 
     print(f"Min Duration: {str(min_duration)}")
     print(f"Max Duration: {str(max_duration)}")
