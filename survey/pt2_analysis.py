@@ -52,6 +52,8 @@ def count_difficulty():
 def is_guess_correct(guess, correct_answer):
     # Note: by observing the data, it seems that the guess is not exactly the same as the correct answer, but might be contained
     # if guess.strip() == correct_answer.strip():
+    guess = guess.replace(' ', '').lower()
+    correct_answer = correct_answer.replace(' ', '').lower()
     if guess.strip() in correct_answer.strip() or correct_answer.strip() in guess.strip():
         return True
     return False
@@ -125,13 +127,14 @@ def count_frequency():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--language", type=str, default='ko')
+    parser.add_argument("-l", "--language", type=str, default='ko')
     args = parser.parse_args()
+    lang = args.language
 
     df = pd.read_csv(f'pt2_{args.language}.csv')
     with open(f"../data/{args.language}_firstbatch.jsonl", "r", encoding="utf-8") as f:
         gold_data = [json.loads(line) for line in f]
-    if args.language == 'ko':
+    if lang == 'ko':
         gold_keywords = {i + 1: entry['keyword'] for i, entry in enumerate(gold_data)}
     else:
         gold_keywords = {i + 1: entry['word'] for i, entry in enumerate(gold_data)}
