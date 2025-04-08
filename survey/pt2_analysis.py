@@ -7,7 +7,8 @@ def count_duration():
     df['Duration'] = pd.to_timedelta(df['Duration (in seconds)'], unit='s')
     min_duration = df['Duration'].min()
     max_duration = df['Duration'].max()
-    return min_duration, max_duration
+    median_duration = df['Duration'].median()
+    return min_duration, max_duration, median_duration
 
 
 def count_strategy():
@@ -139,7 +140,7 @@ if __name__ == "__main__":
     else:
         gold_keywords = {i + 1: entry['word'] for i, entry in enumerate(gold_data)}
 
-    min_duration, max_duration = count_duration()
+    min_duration, max_duration, median_duration = count_duration()
     strategies = count_strategy()
     other_strategies = other_strategy()
     confidence = count_confidence()
@@ -150,6 +151,7 @@ if __name__ == "__main__":
 
     print(f"Min Duration: {str(min_duration)}")
     print(f"Max Duration: {str(max_duration)}")
+    print(f"Median Duration: {str(median_duration)}")
     print(f"Strategy Distribution:\n {strategies}\n")
     print(f"Other Strategies:\n {other_strategies}\n")
     print(f"Confidence Distribution:\n {confidence}\n")
