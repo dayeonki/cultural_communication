@@ -63,6 +63,7 @@ def count_confidence_difficulty():
     difficulty_counts.columns = ['Difficulty Level', 'Count']
     return confidence_counts, difficulty_counts
 
+
 def is_guess_correct(guess, correct_answer):
     # Note: by observing the data, it seems that the guess is not exactly the same as the correct answer, but might be contained
     # if guess.strip() == correct_answer.strip():

@@ -1,6 +1,7 @@
 # Cross-Cultural Communication Project
 **Owner:** Zoey Ki, Hope Hou
 
+
 ### [1] Collecting Neologisms + Meanings
 - ko: NAVER Opensource Dictionary (filtered to only use terms from official neologism dictionary)
 - zh-1: "Language Situation in China" 2019-2022 (in total 948 unique words where 6 words have two meanings; 1 word 卷 has three meanings; 98 words are marked as explicit Internet slang; some words contain placeholders xxx)
@@ -22,7 +23,14 @@
 - **How to ask connotation?:** Give specific/realistic scenario (e.g., Would you use this term to appraise or criticize something/someone?)
 
 
-## Survey response analysis
+### Retrieval
+(1) ColBERT retrieval: `code/retrieval/colbert_rag.py`
+(2) LLM retrieval: `code/retrieval/llm_rag.py`
+
+- Results are saved in `retrieval_results/...`
+
+
+### Survey response analysis
 - Run `python survey/pt1_analysis.py --language $LANGUAGE` by replacing $LANGUAGE with ko or zh.
 - Example output:
 
