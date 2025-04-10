@@ -24,8 +24,8 @@
 
 
 ### Retrieval
-(1) ColBERT retrieval: `code/retrieval/colbert_rag.py`
-(2) LLM retrieval: `code/retrieval/llm_rag.py`
+1. ColBERT retrieval: `code/retrieval/colbert_rag.py`
+2. LLM retrieval: `code/retrieval/llm_rag.py`
 
 - Results are saved in `retrieval_results/...`
 
