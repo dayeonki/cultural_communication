@@ -9,7 +9,7 @@ with open('../data/language_situation_official_zh.jsonl', 'r') as f:
         data = json.loads(line)
         if data['explanatory_hint'].startswith("网络用语"):
             total_neologisms.append(data)
-      
+
 random.seed(0)
 random.shuffle(total_neologisms)
 selected_first_batch = []

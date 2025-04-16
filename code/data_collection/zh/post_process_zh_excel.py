@@ -8,7 +8,7 @@ def split_example(example):
         example_list = example.split("\n")
     else:
         example_list = [example]
-    
+
     example_sentence_list = []
     example_sentence_source_list = []
     for example in example_list:
@@ -91,6 +91,7 @@ def main():
     ]
     raw_item_list = get_raw_jsonl(file_path_list)
     write2file(raw_item_list)
+
 
 if __name__ == "__main__":
     main()
