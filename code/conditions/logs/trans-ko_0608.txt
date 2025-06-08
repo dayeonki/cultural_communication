@@ -1,0 +1,488 @@
+Task: # trans-ko #
+Prompt template: translate {term} in Korean
+Loaded 35 terms from ../../data/en_neologism.jsonl
+Processing term: bestie
+"Bestie" in Korean can be translated as:
+
+**베프 (bepeu)** — This is a slang abbreviation of "베스트 프렌드" (besteu peurendeu), which means "best friend." It's commonly used among young people.
+
+Alternatively, you can also say:
+
+**절친 (jeolchin)** — This means "close friend" or "best friend" and is a bit more standard than 베프.
+
+So, you can use either **베프** or **절친**, depending on the tone and formality you want! 😊
+--------------------------------------------------------------------------------
+Processing term: deplatform
+The term **"deplatform"** in Korean can be translated as:
+
+**탈플랫폼화하다** (*tal-peul-laet-pom-hwa-ha-da*) or **플랫폼에서 퇴출시키다** (*peul-laet-pom-e-seo toe-chul-si-ki-da*).
+
+Here’s what they mean:
+
+1. **탈플랫폼화하다** – A more literal or technical translation meaning "to deplatform" (almost like "to remove from a platform").
+2. **플랫폼에서 퇴출시키다** – This means "to expel/remove someone from a platform," which may be more natural or commonly understood in context.
+
+In everyday Korean conversation or news, the second form (플랫폼에서 퇴출시키다) is generally preferred due to its clarity.
+--------------------------------------------------------------------------------
+Processing term: webseries
+The word **"web series"** can be translated into Korean as:
+
+**웹 시리즈** (pronounced *web sirijeu*)
+
+- **웹 (web)** – short for “Internet” or “web”  
+- **시리즈 (series)** – the Korean transliteration of the English word "series"
+
+So, **웹 시리즈** is the most common and widely used Korean term for "web series."
+--------------------------------------------------------------------------------
+Processing term: lollys
+The word **"lollys"** (which seems to be a plural form or variant spelling of "lollies," meaning lollipops or candy in general) can be translated into Korean depending on the context:
+
+1. **Lollipops (hard candy on a stick)** – **막대사탕** (makdae-satang)
+2. **Candy / Sweets (general term)** – **사탕** (satang)
+
+So for "lollies" in the sense of candy:  
+➡️ **사탕들** (satang-deul), where **-들** indicates plural, though plural is often implied in Korean without needing **들**.
+
+For lollipops specifically:  
+➡️ **막대사탕들** (makdae-satang-deul)
+
+Let me know the exact meaning you're aiming for!
+--------------------------------------------------------------------------------
+Processing term: brainrot
+The slang term **"brainrot"** can be translated into Korean depending on the context, as it is an informal term used to describe being excessively obsessed or consumed by something (like a show, fandom, character, etc.), to the point that it "rots your brain."
+
+In Korean internet slang, a similar expression would be:
+
+- **뇌절** (*noejeol*) — Literally meaning "brain cutoff," it's used when something becomes excessively repetitive or overwhelming, similar to how "brainrot" is used.
+- **뇌가 썩었다** (*noega sseogeotda*) — Literally "my brain has rotted," a more direct and humorous translation, often used in fandoms or memes.
+
+So, for example, if you're saying "I've got brainrot for this anime," you might say:
+
+- **이 애니메이션 때문에 뇌가 썩었어.**  
+*(I-e animeisyeon ttaemune noega sseogeosseo.)*  
+= "My brain has rotted because of this anime."
+
+Let me know if you need a more formal or alternative phrasing!
+--------------------------------------------------------------------------------
+Processing term: lewdity
+The word **"lewdity"** (a rarely used form of **"lewdness"**, meaning indecent or obscene behavior) can be translated into Korean as:
+
+**음탕함** (eumtangham)
+
+Other possible translations depending on context:
+- **외설** (oesol) – obscenity, indecency
+- **추잡함** (chujap-ham) – vulgarity, filthiness
+
+Let me know the context if you’d like a more accurate or nuanced translation!
+--------------------------------------------------------------------------------
+Processing term: terpy
+The word **"terpy"** is a slang term, often used in the context of cannabis culture, to describe something that has a strong, flavorful aroma or taste due to terpenes (the aromatic compounds found in many plants).
+
+In Korean, there is no direct translation for **"terpy"**, especially since it's a slang term. However, you can try to convey the meaning based on context. Here are some options:
+
+1. **향이 강한 (hyang-i ganghan)** – "strongly aromatic"
+2. **테르펜 향이 풍부한 (tereupen hyang-i pungbuhan)** – "rich in terpene aroma"
+3. **테르피한 (terepi-han)** – A possible transliteration of "terpy" for slang use in Korean (not standard, but could be used among a niche audience)
+
+So, if you're describing a cannabis strain that's "terpy," you might say:
+
+- **이 품종은 테르펜 향이 풍부해요.**  
+  *"This strain is rich in terpene aroma."*
+
+Let me know if you'd like it translated for a specific type of product or in a particular sentence!
+--------------------------------------------------------------------------------
+Processing term: omds
+The abbreviation "OMDS" can stand for different things depending on context (e.g., Olympus Medical Division Systems, Oh My Damn Self, etc.).
+
+If you're referring to slang like **"OMDS" = "Oh My Damn Self"**, a Korean translation for its intent (often used for emphasis like "by myself" or "alone with strong emotion) might be:
+
+- **"나 혼자서 다 했어!"** (I did it all by myself!)  
+- Or more literally: **"오 마이 댐 셀프"** (a transliteration, not commonly used)
+
+If it's in a professional or technical context (e.g., **OMDS** as a company or device name), it might not be translated at all in Korean and just referred to by the acronym.
+
+Let me know the context, and I’ll give you a more accurate translation.
+--------------------------------------------------------------------------------
+Processing term: slurs
+I'm here to promote respectful and inclusive communication. If you're trying to understand the meaning of certain words or cultural context—especially when dealing with sensitive language like slurs—I can help explain or provide appropriate translations in an educational or awareness context.
+
+Please let me know what you're trying to learn or achieve, and I’ll be happy to assist in a constructive and respectful way.
+--------------------------------------------------------------------------------
+Processing term: frownies
+The word **"frownies"** can be translated into Korean depending on the context:
+
+1. **If referring to facial expressions (plural of "frown")**:
+   - **찡그린 얼굴들** (jjing-geu-rin eol-gul-deul) — "frowning faces" or "frowned faces"
+
+2. **If referring to the skincare brand "Frownies"**:
+   - It is usually transliterated as **프라우니스** (peu-ra-u-ni-seu)
+
+Let me know the exact context if you'd like a more precise translation!
+--------------------------------------------------------------------------------
+Processing term: e-dating
+The term **"e-dating"** in Korean can be translated as:
+
+**이데이트** (pronounced *i-de-i-teu*) – This is a transliteration of the English term.
+
+Alternatively, you could describe it more contextually as:
+
+**온라인 데이트** (pronounced *on-la-in de-i-teu*) – meaning **"online dating."**
+
+This version is more natural and widely understood in Korean.
+--------------------------------------------------------------------------------
+Processing term: transmigrates
+The word **"transmigrates"** can be translated into Korean as:
+
+**환생하다** (hwansaenghada) – meaning "to reincarnate" or "to be reborn."
+
+Depending on the context, other translations may include:
+
+- **이주하다** (iju-hada) – if referring to migration or moving from one place to another.
+- **이전하다** (ijeon-hada) – meaning "to transfer" or "to relocate."
+
+If you provide the context in which "transmigrates" is used, I can give a more accurate translation!
+--------------------------------------------------------------------------------
+Processing term: dosser
+The English word **"dosser"** can have a few meanings depending on the context:
+
+1. **Slang (British)** – A *dosser* is someone who is lazy, avoids work, or lives by sleeping in different places (often homeless).
+2. In archaic or rare usage, it can refer to a mat, bed, or bag used for sleeping.
+
+### Korean Translation (Context-Dependent):
+
+1. **(Slang / Insulting usage)**  
+   - **게으름뱅이** (*gae-eureumbang-i*) — "lazy person"
+   - **놀고먹는 사람** (*nolgomeongneun saram*) — "someone who loafs around"
+   - **노숙자** (*nosukja*) — "homeless person" (if referring to someone who sleeps rough)
+
+2. **(Old term for bedding / sleeping bag)**  
+   - **침낭** (*chimnang*) — "sleeping bag"
+   - **요** (*yo*) — "sleeping mat" used in Korean homes
+
+If you're translating from a specific sentence or context, feel free to provide it for a more accurate translation!
+--------------------------------------------------------------------------------
+Processing term: freshie
+The term **"freshie"**, which is an informal slang for **"freshman"** (a first-year student), can be translated into Korean as:
+
+### **신입생 (sin-ip-saeng)**
+
+- **신입 (sin-ip)** = new
+- **생 (saeng)** = student
+
+This is the standard and appropriate term used in schools and universities in Korea.
+
+If you're referring to "freshie" in a casual or playful tone (like students might use colloquially), Koreans might still just say **신입생**, though they might add a playful tone or alternative nicknames, but there's no widely used slang equivalent for "freshie" that's a direct transliteration.
+
+So in summary:
+- **Freshie (casual for freshman)** → **신입생** in Korean.
+--------------------------------------------------------------------------------
+Processing term: derangements
+The word **"derangements"** can be translated into Korean as:
+
+- **혼란** (honran) – disorder, confusion  
+- **착오** (chako) – error or mistake (in formal contexts)  
+- **섞임 없음** or **배열 불일치** – more literal translations used in mathematics, meaning "no fixed points" or "misalignment of arrangement"
+
+In **mathematics**, "derangement" refers to a permutation where no element appears in its original position. The most accurate mathematical translation would be:
+
+- **자리 바꿈 없음 순열** or  
+- **고정점이 없는 순열**
+
+Let me know if you need the translation for a general context (like psychological or logistical disorder) or the mathematical concept specifically!
+--------------------------------------------------------------------------------
+Processing term: puffers
+The word **"puffers"** can be translated into Korean depending on the context. Here are a few possibilities:
+
+1. **For the fish (e.g., pufferfish):**
+   - **복어** *(bog-eo)*
+
+2. **For jackets (e.g., puffer jackets):**
+   - **패딩** *(pae-ding)* — this is a commonly used Korean term derived from the English word "padding"
+   - Or more formally: **패딩 재킷** *(pae-ding jae-kit)*
+
+3. **For inhalers (commonly called puffers in informal speech for asthma medication):**
+   - **흡입기** *(heub-ip-gi)* — literally "inhaler"
+
+If you let me know the specific context, I can provide a more accurate translation!
+--------------------------------------------------------------------------------
+Processing term: sortation
+The word **"sortation"** can be translated into Korean as:
+
+**분류** (pronounced: *bun-ryu*)
+
+This term is commonly used in logistics and warehouse contexts to refer to the process of sorting items.
+
+For example:
+- **Sortation system** → **분류 시스템**
+- **Sortation center** → **분류 센터**
+
+Let me know if you need it used in a sentence!
+--------------------------------------------------------------------------------
+Processing term: bucked
+The word **"bucked"** can have several meanings depending on the context. Here are some common translations in Korean:
+
+1. **If "bucked" means a horse or animal jumping or kicking:**
+   - **날뛰었다** (nalttwieotda)
+   - Example: "The horse bucked suddenly." → **말이 갑자기 날뛰었다.**
+
+2. **If "bucked" means to resist or oppose something:**
+   - **반항했다** (banhanghaetda) or **거역했다** (geoyeokhaetda)
+   - Example: "He bucked the system." → **그는 체제에 반항했다.**
+
+3. **If "bucked" is used in a slang or informal monetary context (as in 'passed the buck'):**
+   - This typically doesn't translate directly and would need explanation based on the idiom.
+
+If you could provide the sentence or context, I’ll give you the most accurate translation.
+--------------------------------------------------------------------------------
+Processing term: bookish
+The English word **"bookish"** can be translated into Korean as:
+
+**책을 좋아하는** (chaek-eul joh-a-haneun) – literally "someone who likes books"  
+or  
+**학구적인** (hak-gu-jeok-in) – meaning "studious" or "academic"
+
+Depending on context:
+
+- If you mean someone who loves reading: **책을 좋아하는 사람**
+- If you mean someone overly academic or studious: **학구적인 사람**
+
+Let me know the context if you want a more precise translation!
+--------------------------------------------------------------------------------
+Processing term: swill
+The word **"swill"** can be translated into Korean depending on the context. Here are a few possibilities:
+
+1. **(As low-quality food or drink)**  
+   - **허접한 음식** or **형편없는 음식/음료**  
+   - Example: "He drank that swill like it was fine wine."  
+     → 그는 그 형편없는 술을 고급 와인처럼 마셨다.
+
+2. **(Animal feed, like pig swill)**  
+   - **음식 찌꺼기** or **사료용 음식물 쓰레기**  
+   - Example: "The pigs were fed swill."  
+     → 돼지에게 음식 찌꺼기를 먹였다.
+
+3. **(Verb: to drink greedily)**  
+   - **들이켜다**, **꿀꺽 마시다**  
+   - Example: "He swilled down the beer."  
+     → 그는 맥주를 벌컥벌컥 들이켰다.
+
+Let me know which meaning you need!
+--------------------------------------------------------------------------------
+Processing term: v-tubers
+The term **"V-Tubers"** is typically translated or written in Korean as:
+
+**버튜버** (beo-tyu-beo)
+
+This is a **Korean transliteration** of the English "V-Tuber," short for "Virtual YouTuber." It combines the Korean phonetic representation of "V" (버 for "V", pronounced like "buh") and "Tuber" (튜버, like 'YouTuber').
+
+Alternatively, the full term **"버추얼 유튜버"** (beo-chu-eol yu-tyu-beo) can also be used, which means:
+
+- **버추얼 (virtual)** = virtual  
+- **유튜버 (YouTuber)** = YouTuber
+
+### Summary:
+- Common shorthand: **버튜버**
+- Full version: **버추얼 유튜버**
+
+Both are widely understood in Korean communities, especially among K-pop, anime, and streaming fans.
+--------------------------------------------------------------------------------
+Processing term: allowlist
+The term **"allowlist"** in Korean can be translated as:
+
+**허용 목록** (heoyong moglog)
+
+- **허용 (heoyong)** = allow / permission  
+- **목록 (moglog)** = list  
+
+So, **allowlist** = **허용 목록**, commonly used in IT and cybersecurity contexts.
+
+Let me know if you need it used in a sentence or further explained!
+--------------------------------------------------------------------------------
+Processing term: hyperlexic
+The word **"hyperlexic"** in Korean can be translated as:
+
+**과독해증** (pronounced: gwa-dok-hae-jeung)
+
+Here's a breakdown:
+- **과** (gwa) = excessive
+- **독해** (dok-hae) = reading comprehension
+- **증** (jeung) = syndrome / condition
+
+So, **과독해증** refers to a condition where someone, often a child, has advanced reading skills beyond their age but may have difficulties with language comprehension or social communication, commonly associated with autism spectrum disorders.
+
+Let me know if you need the term used in a sentence or explained further!
+--------------------------------------------------------------------------------
+Processing term: slayyyy
+The slang term "Slayyyy" is often used to enthusiastically praise someone for doing something exceptionally well, looking amazing, or succeeding confidently. It conveys excitement and admiration.
+
+In Korean, there isn't a direct 1:1 translation for the slang "Slayyyy," but you can express a similar feeling using phrases like:
+
+- **짱이야!** (Jjang-iya!) – "You're the best!" or "Awesome!"
+- **대박!** (Daebak!) – "Amazing!" or "Epic!"
+- **완전 멋져!** (Wanjeon meotjyeo!) – "Totally cool!" or "So stylish!"
+- **쩐다!** (Jjeonda!) – A very slangy way to say "That’s insane!" or "That’s dope!"
+
+If you're going for an exaggerated "Slayyyy" vibe with the tone, you might say something like:
+
+- **와, 완전 짱이다아아~!!** — "Wow, that's soooo amazing~!!"
+
+Let me know if you'd like a version with feminine/masculine nuance or for a specific context (like fashion, performance, etc.)!
+--------------------------------------------------------------------------------
+Processing term: bebecita
+The Spanish word **"bebecita"** is an affectionate term meaning **"little baby"** or **"baby girl"**, often used romantically or lovingly.
+
+In Korean, a similar affectionate expression would be:
+
+**베베씨타** (phonetic transliteration) — but this is just a sound transcription.
+
+For a natural Korean equivalent in meaning, you could use:
+
+**애기야** (aegiya) — meaning "baby" or "baby girl" in a cute, loving way.
+
+So:
+
+**Bebecita** → **애기야** in Korean.
+--------------------------------------------------------------------------------
+Processing term: wtv
+"wtv" is an abbreviation for "whatever" in English.
+
+The Korean translation for "whatever" (in this casual context) can be:
+
+**"뭐든지"** (mwo-deun-ji) – meaning "anything" or "whatever".
+
+Or in a more slang/casual context (like how "wtv" is used casually), you can say:
+
+**"그냥 뭐"** (geunyang mwo) – meaning "just whatever" or "whatever, I don't care".
+
+So, **"wtv" in Korean** can be translated casually as:
+
+👉 **그냥 뭐**
+
+Let me know if you want a formal or informal tone!
+--------------------------------------------------------------------------------
+Processing term: wibta
+The acronym "WIBTA" stands for **"Would I Be The A**hole?"**, commonly used in online discussions, especially on platforms like Reddit (e.g., r/AmItheAsshole).
+
+In Korean, you could translate **"Would I Be The A**hole?"** as:
+
+👉 **내가 나쁜 사람일까?**  
+(Pronunciation: *Naega nappeun saramilkka?*)
+
+This is a natural and polite way to express the idea in Korean. If you want to capture the nuance more colloquially or directly, especially among close friends, you might also say:
+
+👉 **내가 개XX일까?**  
+(*Naega gae-XX-ilkka?*)  
+(Note: "개XX" is used to soften profanity like "개새끼" which is very strong and rude, so be cautious.)
+
+But generally, **"내가 나쁜 사람일까?"** is your best bet for general use.
+--------------------------------------------------------------------------------
+Processing term: uninviting
+The word **"uninviting"** can be translated into Korean as:
+
+**매력 없는** (maeryeok eomneun) – literally means "unattractive" or "lacking charm."
+
+Depending on context, other possible translations include:
+
+- **썰렁한** (sseolleonghan) – meaning "chilly" or "dreary" (used for places or atmosphere).
+- **반갑지 않은** (bangapji aneun) – meaning "not welcome" or "unwelcome" (used for people or feelings).
+
+Let me know the context if you need a more precise translation!
+--------------------------------------------------------------------------------
+Processing term: blud
+The slang term **"blud"**, commonly used in British English, especially in urban slang, is a variation of "blood" and is used to refer to a close friend, comrade, or brother-like figure — similar to "bro" or "dude."
+
+In Korean, there's no direct one-word equivalent, but some common translations or similar slang expressions are:
+
+- **브로 (beuro)** – a Konglish (Korean-English) version of “bro.”
+- **형 (hyeong)** – used by males to refer to an older brother or older male friend.
+- **친구야 (chinguya)** – means “friend” in a casual, informal tone.
+- **야, 친구! (ya, chingu!)** – “Hey, buddy!” or “Hey, friend!”
+
+So, if you're trying to translate the **sense** of "blud" in a casual, friendly way, a good equivalent might be:
+
+- **형, 잘 지냈어?** (Hyeong, jal jinaesseo?) – “Blud, how’ve you been?” (spoken by a male to an older male friend).
+
+Let me know the context and I can give a more precise translation!
+--------------------------------------------------------------------------------
+Processing term: tradwife
+The term **"tradwife"** (short for "traditional wife") can be translated into Korean as:
+
+**전통적인 아내** (*jeontongjeogin anae*)
+
+Or more colloquially:
+
+**전통적인 주부** (*jeontongjeogin jubu*) – "traditional housewife"
+
+If referring specifically to the ideology or lifestyle (a woman who embraces traditional gender roles, often emphasizing homemaking, modesty, and supporting her husband), you might also describe it as:
+
+**전통적인 여성 역할을 따르는 아내**  
+(*jeontongjeogin yeoseong yeokhareul ttaruneun anae*)  
+– a wife who follows traditional female roles.
+
+Let me know if you want this term adapted in a casual, formal, or cultural context.
+--------------------------------------------------------------------------------
+Processing term: grifter
+The word **"grifter"** in Korean can be translated as:
+
+**사기꾼 (sagikkun)**
+
+This term refers to a **con artist**, **swindler**, or someone who deceives others for personal gain.
+
+Let me know if you need it used in a sentence!
+--------------------------------------------------------------------------------
+Processing term: problematic
+The word **"problematic"** can be translated into Korean as:
+
+**문제가 되는**  
+or  
+**문제의 소지가 있는**
+
+### Examples:
+- This situation is problematic.  
+  → 이 상황은 **문제가 됩니다**.
+
+- That idea is problematic.  
+  → 그 생각은 **문제의 소지가 있습니다**.
+
+Let me know if you'd like translations in a specific context!
+--------------------------------------------------------------------------------
+Processing term: pretext
+The word **"pretext"** can be translated into Korean as:
+
+**구실** (pronounced: gu-sil)
+
+### Explanation:
+- **구실** refers to a **false reason or excuse** given to hide the real intention, which conveys the meaning of "pretext" well.
+- Example sentence:
+  - **그는 아프다는 구실로 회의를 피했다.**  
+    → *He avoided the meeting under the pretext of being sick.*
+
+Let me know if you need it used in different contexts!
+--------------------------------------------------------------------------------
+Processing term: self-sabotage
+The term **"self-sabotage"** can be translated into Korean as:
+
+**자기 파괴** (jagi pagoe) – literally "self-destruction"  
+or  
+**자기 방해** (jagi banghae) – literally "self-interference" or "self-obstruction"
+
+Depending on the context, **자기 방해** is more commonly used in psychological or self-help contexts to describe behaviors where a person hinders their own success or well-being.
+
+Let me know the context if you need a more specific translation!
+--------------------------------------------------------------------------------
+Processing term: maidenless
+The term **"maidenless"** can be translated into Korean as:
+
+**"여성이 없는"** or **"여자 친구가 없는"**, depending on the context.
+
+In the specific context of the game *Elden Ring*, where "maidenless" is used to imply that the player lacks a guide or companion (sometimes with a slightly humorous or mocking tone), it is often translated as:
+
+**"처녀 없는 자"** or **"처녀 없이 시작한 자"**,  
+which literally means "one without a maiden."
+
+In the Korean localization of *Elden Ring*, the iconic line “You are maidenless” is translated as:
+
+**"그대에겐 처녀가 없군."**
+
+Let me know the context you're using it in, and I can provide a better-fitting translation!
+--------------------------------------------------------------------------------
